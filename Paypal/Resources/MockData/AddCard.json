@@ -1,0 +1,24 @@
+{
+  "exploreNewWays": {
+    "payWithACard": {
+      "title": "Pay with a card linked to your bank",
+      "image": ""
+    },
+    "applyForRatenzahlung": {
+      "title": "Apply for Ratenzahlung to use in the next 48 hours.",
+      "image": "Ratenzah"
+    }
+  },
+  "existingCards": [
+    {
+      "title": "Deucth",
+      "subTitle": "card **34",
+      "image": "Deucth"
+    },
+    {
+      "title": "Franton",
+      "subTitle": "card **34",
+      "image": "Franton"
+    }
+  ]
+}
